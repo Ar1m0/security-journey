@@ -34,4 +34,3 @@ def count_open(ports):
 result = count_open([21, 22, 23, 80, 443, 8080])
 print(f"Открытых портов: {result}")
 
-
